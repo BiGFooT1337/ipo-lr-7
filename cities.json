@@ -1,0 +1,52 @@
+[
+  {
+    "id": 1,
+    "name": "Москва",
+    "country": "Россия",
+    "is_big": true,
+    "people_count": 13104177
+  },
+  {
+    "id": 2,
+    "name": "Берлин",
+    "country": "Германия",
+    "is_big": true,
+    "people_count": 3669491
+  },
+  {
+    "id": 3,
+    "name": "Токио",
+    "country": "Япония",
+    "is_big": true,
+    "people_count": 13929286
+  },
+  {
+    "id": 4,
+    "name": "Нью-Йорк",
+    "country": "США",
+    "is_big": true,
+    "people_count": 8800000
+  },
+  {
+    "id": 5,
+    "name": "Стамбул",
+    "country": "Турция",
+    "is_big": true,
+    "people_count": 15840900
+  },
+  {
+    "id": 6,
+    "name": "Прага",
+    "country": "Чехия",
+    "is_big": true,
+    "people_count": 1357000
+  },
+  {
+    "id": 7,
+    "name": "Дублин",
+    "country": "Ирландия",
+    "is_big": false,
+    "people_count": 554554
+  }
+]
+
